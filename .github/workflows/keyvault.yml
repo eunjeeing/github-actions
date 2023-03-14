@@ -21,3 +21,4 @@
             login-server: ${{ steps.myGetSecretAction.outputs.containerUsername }}.azurecr.io
             username: ${{ steps.myGetSecretAction.outputs.containerUsername }}
             password: ${{ steps.myGetSecretAction.outputs.containerPassword }}
+
