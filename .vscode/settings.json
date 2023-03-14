@@ -1,0 +1,5 @@
+{
+    "appService.preDeployTask": "publish-release",
+    "appService.deploySubpath": "bin\\Release\\net6.0\\publish",
+    "appService.defaultWebAppToDeploy": "undefined/subscriptions/c342033e-85ee-4c43-ad5f-46e587260f1b/resourceGroups/github230314-rg/providers/Microsoft.Web/sites/myfirstazurewebapp9031"
+}
